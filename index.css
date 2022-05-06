@@ -1,4 +1,5 @@
   @import url(ACES07_REGULAR);
+  @font-face { font-family: ACES07_REGULAR; src: url('ACES07_Regular.ttf'); }
 
 .stick
   {
