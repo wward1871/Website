@@ -31,6 +31,12 @@ iframe
   margin: 0 auto;
 }
 
+video
+{
+  display: block;
+  margin: 0 auto;
+}
+
 h1
   {
     margin-left: 18px;
