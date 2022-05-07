@@ -34,7 +34,7 @@ iframe
 video
 {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 10px auto;
   box-sizing: border-box;
   object-fit: fill;
   
