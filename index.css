@@ -34,7 +34,10 @@ iframe
 video
 {
   display: block;
-  margin: -100 auto -100 auto;
+  margin-top: -100px;
+  margin-bottom: -100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1
