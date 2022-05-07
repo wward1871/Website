@@ -35,7 +35,8 @@ video
 {
   display: block;
   margin: 0 auto;
-  object-fit: contain;
+  box-sizing: border-box;
+  
 }
 
 h1
