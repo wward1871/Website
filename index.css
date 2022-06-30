@@ -90,6 +90,12 @@ nav li
     font-family: ACES07_REGULAR;
   }
 
+blockquote
+{
+  display: block;
+ 
+}
+
 a:link
   {
     color: black;
