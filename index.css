@@ -92,9 +92,7 @@ nav li
 
 blockquote
 {
- position: absolute;
- top: 50%;
- transform:translateY(-50%);
+ margin: auto;
 }
 
 a:link
