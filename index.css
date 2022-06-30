@@ -43,7 +43,8 @@ video
 h1
   {
     margin-left: 18px;
-    margin-top: 18px;;
+    margin-top: 18px;
+    max-width: 1000px;
     font-family: ACES07_REGULAR;
   }
 
