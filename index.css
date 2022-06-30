@@ -93,7 +93,7 @@ nav li
 blockquote
 {
   display: block;
- 
+  margin: 0 auto 10 auto;
 }
 
 a:link
