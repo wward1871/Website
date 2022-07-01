@@ -9,7 +9,6 @@
   height: 80px;
   padding-top: 10px;
   min-width: 1000px;
-
   }
 
 .poster
@@ -64,7 +63,7 @@ h3
 nav
   {
     width: 1500px;
-    min-width: 100px;
+    min-width: 500px;
     max-width: 1500px;
     height: 100px;
     float: right;
